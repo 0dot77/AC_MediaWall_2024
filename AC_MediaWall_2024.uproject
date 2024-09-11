@@ -24,6 +24,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
